@@ -117,7 +117,7 @@ We added the following files to the PyTorch Geometric Temporal package:
 --------------------------------------------------------------------------------
 
 ### Other Examples of Index-Batching
-Before deciding to focus on extending Pytorch Geometric Temporal, we modified ST-LLM to support Dask DDP and index-batching, and our source code is [available on Github](https://anonymous.4open.science/r/DDP-Index-Batching-ST-LLM-83E9/README.md) (TODO after review period, update to non-anon link). 
+Before deciding to focus on extending Pytorch Geometric Temporal, we modified ST-LLM to support Dask DDP and index-batching, and our source code is [available on Github](https://anonymous.4open.science/r/DDP-Index-Batching-ST-LLM-818C/README.md) (TODO after review period, update to non-anon link). 
 
 
 **License**
